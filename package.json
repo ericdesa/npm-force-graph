@@ -1,0 +1,31 @@
+{
+    "name": "node-force-graph",
+    "version": "0.0.1",
+    "scripts": {
+        "========================= Project =========================": "",
+        "-------------------------- Front --------------------------": "",
+        "start": "ng serve --host=0.0.0.0 --disable-host-check",
+        "build": "ng build  --prod"
+    },
+    "private": true,
+    "dependencies": {
+        "@angular/common": "5.1.1",
+        "@angular/compiler": "5.1.1",
+        "@angular/core": "5.1.1",
+        "@angular/http": "5.1.1",
+        "@angular/platform-browser": "5.1.1",
+        "@angular/platform-browser-dynamic": "5.1.1",
+        "core-js": "2.5.1",
+        "nicer-fs": "^2.0.0",
+        "rxjs": "5.5.2",
+        "zone.js": "0.8.18"
+    },
+    "devDependencies": {
+        "@angular/cli": "1.4.9",
+        "@angular/compiler-cli": "^5.1.1",
+        "codelyzer": "^3.1.2",
+        "ts-node": "^3.2.2",
+        "tslint": "^5.3.2",
+        "typescript": "2.5.0"
+    }
+}
